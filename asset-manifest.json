@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.935c0a35.css",
+    "main.js": "/portfolio/static/js/main.68c37838.js",
+    "static/media/mehar_store.png": "/portfolio/static/media/mehar_store.0820d69365c4df111b3c.png",
+    "static/media/memories.png": "/portfolio/static/media/memories.9f9dd833ec4a229a2cf6.png",
+    "static/media/rns_media.png": "/portfolio/static/media/rns_media.300991d265de670a9899.png",
+    "static/media/stackimage2.png": "/portfolio/static/media/stackimage2.5e48786ab8e0a938c434.png",
+    "static/media/intro-bg.jpg": "/portfolio/static/media/intro-bg.9a37afe0b8455e706c90.jpg",
+    "static/media/stackimage1.png": "/portfolio/static/media/stackimage1.45e8af3de7251ba358be.png",
+    "index.html": "/portfolio/index.html",
+    "main.935c0a35.css.map": "/portfolio/static/css/main.935c0a35.css.map",
+    "main.68c37838.js.map": "/portfolio/static/js/main.68c37838.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.935c0a35.css",
+    "static/js/main.68c37838.js"
+  ]
+}
